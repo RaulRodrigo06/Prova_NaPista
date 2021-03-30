@@ -5,6 +5,9 @@ todos os produtos já inseridos anteriormente, bem como detalhar especificamente
 Já a aplicação presente na compra ApiPagamento, é responsável por receber informações de pagamento, e retornar o valor
 da operação, bem como se a operação foi aprovada ou reprovada.
 
+Infelizmente aconteceu um bug e perdi todo o repositório que tinha, estava fazendo o commit passo a passo. Perdão pelo commit gigantesco que fiz,
+foi pra n perder o prazo.
+
 "O Segredo para o sucesso é começar antes de estar preparado"
 -Não sei o autor, mas acho mt bonito.
 
